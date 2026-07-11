@@ -1,4 +1,4 @@
-# Linear Equation Solver
+# Linear Algebra Matrix Solver
 
 A Python application for solving systems of linear equations using **Gaussian Elimination** and **Gauss–Jordan Elimination**. The program also computes matrix determinants, verifies row-echelon forms, and displays every row operation step-by-step, making it a useful educational tool for learning linear algebra.
 
